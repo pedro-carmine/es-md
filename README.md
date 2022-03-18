@@ -78,4 +78,8 @@ The list of pull requests associated with this feature is:
 The screenshot includes the test coverage results associated with the new/changed entities:
 
 ![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/pri/images/pri/Dashboard.png)
+![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/pri/images/pri/FailedAnswer.png)
+![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/pri/images/pri/FailedAnswerDto.png)
+![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/pri/images/pri/FailedAnswerService.png)
+![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/pri/images/pri/SameQuestion.png)
 ---
