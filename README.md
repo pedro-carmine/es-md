@@ -31,7 +31,7 @@ The screenshot includes the test coverage results associated with the new/change
 
 ### Subgroup
  - Manuel Carneiro, 89927, manuelmcarneiro / ManuelCarneiro
-   + Issues assigned: [#3](https://github.com/tecnico-softeng-2022/es22-42/issues/3), [#10](https://github.com/tecnico-softeng-2022/es22-42/issues/10), [#16] (https://github.com/tecnico-softeng-2022/es22-42/issues/16), [#26] (https://github.com/tecnico-softeng-2022/es22-42/issues/26)
+   + Issues assigned: [#3](https://github.com/tecnico-softeng-2022/es22-42/issues/3), [#10](https://github.com/tecnico-softeng-2022/es22-42/issues/10), [#16](https://github.com/tecnico-softeng-2022/es22-42/issues/16), [#26](https://github.com/tecnico-softeng-2022/es22-42/issues/26)
  - Vasco Veloso, 87568, vascoveloso
    + Issues assigned: [#6](https://github.com/tecnico-softeng-2022/es22-42/issues/6), [#17](https://github.com/tecnico-softeng-2022/es22-42/issues/17)
 
