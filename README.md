@@ -1,29 +1,26 @@
-# ES22 P1 submission, Group NN
+# ES22 P1 submission, Group 42
 
 ## Feature ERE
 
 ### Subgroup
- - Nome, istID, githubID
-   + Issues assigned: [#1](https://github.com), [#3](https://github.com)
- - Nome, istID, githubID
-   + Issues assigned: [#2](https://github.com), [#4](https://github.com)
+ - Luís Dias, 98557, luisdias501
+   + Issues assigned: [#5](https://github.com/tecnico-softeng-2022/es22-42/issues/5), [#23](https://github.com/tecnico-softeng-2022/es22-42/issues/23)
+ - Gonçalo Veiga, 96738, goncalo-veiga
+   + Issues assigned: [#9](https://github.com/tecnico-softeng-2022/es22-42/issues/9), [#4](https://github.com/tecnico-softeng-2022/es22-42/issues/4), [#14](https://github.com/tecnico-softeng-2022/es22-42/issues/14), [#18](https://github.com/tecnico-softeng-2022/es22-42/issues/18), [#22](https://github.com/tecnico-softeng-2022/es22-42/issues/22)
  
 ### Pull requests associated with this feature
 
 The list of pull requests associated with this feature is:
 
- - [PR #000](https://github.com)
- - [PR #001](https://github.com)
- - [PR #002](https://github.com)
-
+ - [PR #25](https://github.com/)
 
 ### Test Coverage Screenshot
 
-The screenshot includes the test coverage results associated with the new/changed 
-entities:
+The screenshot includes the test coverage results associated with the new/changed entities:
 
-![Test Coverage 
-Screenshot](https://github.com/tecnico-softeng-2022/templates/blob/master/sprints/coverage-example.png)
+![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/develop/images/ere/SamePercentage.png)
+![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/develop/images/ere/WeeklyScore.png)
+![Test Coverage Screenshot](https://github.com/tecnico-softeng-2022/es22-42/blob/develop/images/ere/WeeklyScorePercentage.png)
 
 ---
 
