@@ -12,7 +12,7 @@
 
 The list of pull requests associated with this feature is:
 
- - [PR #25](https://github.com/)
+ - [PR #25](https://github.com/tecnico-softeng-2022/es22-42/pull/25)
 
 ### Test Coverage Screenshot
 
